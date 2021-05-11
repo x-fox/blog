@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "my blog project",
+  "main": "index.js",
+  "directories": {
+    "doc": "blog"
+  },
+  "scripts": {
+    "dev": "vuepress dev blog --open",
+    "build": "vuepress build blog"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x-fox/blog.git"
+  },
+  "author": "huanggengxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/x-fox/blog/issues"
+  },
+  "homepage": "https://github.com/x-fox/blog#readme",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.8.2"
+  }
+}
