@@ -1,2 +1,3 @@
-# 简介
-  基于VuePress搭建的博客项目，Just playing around
+### blog
+
+基于VuePress搭建的博客项目，记录一些笔记。
