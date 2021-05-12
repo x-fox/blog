@@ -14,6 +14,10 @@ module.exports = {
       {
         text: '算法',
         link: '/algorithm/'
+      },
+      {
+        text: '随笔',
+        link: '/essay/'
       }
     ]
   },
