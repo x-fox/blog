@@ -6,7 +6,7 @@ module.exports = {
     ['link', { rel: 'icon', href: './public/favicon.ico' }]
   ],
   host: '172.16.5.32',
-  dest: 'dist',
+  dest: 'docs',
   theme: '@vuepress/blog',
   themeConfig: {
     nav: [
