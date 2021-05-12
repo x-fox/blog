@@ -1,6 +1,6 @@
 module.exports = {
   description: 'Just playing around',
-  base: '/blog',
+  // base: '/blog',
   title: 'Sin の website',
   head: [
     ['link', { rel: 'icon', href: './public/favicon.ico' }]
