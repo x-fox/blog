@@ -1,8 +1,8 @@
 module.exports = {
   description: 'Just playing around',
-  base: '/blog',
+  base: '/blog/',
   title: 'Sin の website',
-  host: '172.16.5.32',
+  // host: '172.16.5.32',
   dest: 'docs',
   theme: '@vuepress/blog',
   themeConfig: {
